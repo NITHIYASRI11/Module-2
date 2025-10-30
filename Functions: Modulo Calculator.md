@@ -12,8 +12,16 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+```
+if b==0:
+    print("a is not allowed to divide by b")
+else:
+    modulo=result(a,b)
+    print("modulo is",modulo)
+```
 
 ## Output
+<img width="910" height="274" alt="image" src="https://github.com/user-attachments/assets/4ec534ee-60d5-4501-8ff8-0d50d502afa2" />
 
 ## Result
+Thus, the python program was executed successfully
